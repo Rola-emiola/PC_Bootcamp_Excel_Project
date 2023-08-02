@@ -1,6 +1,7 @@
 # PC_Bootcamp_Excel_Project
 
 This is a Sample Superstore dataset of about 10000 data.
+
 **Project activity is to:**
 
 Come up with 6 business questions you intend to answer with that data.
@@ -9,7 +10,9 @@ Clean, analyze and visualize your insights.
 
 Include the following:
 Your KPIs (maximum of 4)
+
 Suitable header and subtitles for each visualization
+
 A suitable slicer
 
 
@@ -54,7 +57,9 @@ Slicer used was "Shipping Date"
 6. The use of pivot charts for data visualization.
 
 7. The use of connected slicer to pivot charts in order to fiter insights generated.
+
 ![Screenshot (27)](https://github.com/Rola-emiola/PC_Bootcamp_Excel_Project/assets/140798147/1c7c3274-2068-49db-921b-c3c820b66155)
+
 ![Screenshot (28)](https://github.com/Rola-emiola/PC_Bootcamp_Excel_Project/assets/140798147/521b10ac-1c6f-4345-ad81-9671bcae7b64)
 
 
@@ -74,9 +79,11 @@ Report were generated on, and data visualization focused on:
 
 6. Total sales and profit by years (Shipping date - Year).
 
-**Data Visualization**
+**Data Visualization:**
+
 CHARTS - Column charts, Pie chart and Line chart.
 
 COLORS - Green and Orange.
+
 ![Screenshot (29)](https://github.com/Rola-emiola/PC_Bootcamp_Excel_Project/assets/140798147/f4148a58-6f20-4e4c-aff8-378933ad8558)
 
